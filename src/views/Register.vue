@@ -87,7 +87,7 @@ const onSubmit = () => {
 
 <template>
   <div class="h-screen w-screen bg-gray-200 font-sans">
-    <div class="mx-auto aspect-[9/17] h-screen bg-[#9FCEA3] px-20 pt-20">
+    <div class="mx-auto aspect-[9/17] h-screen bg-[#9FCEA3] px-10 pt-20">
       <div class="text-center">
         <a-image
           class="mb-16"

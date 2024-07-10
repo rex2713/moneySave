@@ -63,7 +63,7 @@ const handleLogin = () => {
 <template>
   <div class="h-screen w-screen bg-gray-200 font-sans">
     <div
-      class="mx-auto flex aspect-[9/17] h-screen flex-col gap-y-12 bg-[#9FCEA3] px-20 pt-20"
+      class="mx-auto flex aspect-[9/17] h-screen flex-col gap-y-12 bg-[#9FCEA3] px-10 pt-20"
     >
       <!-- banner & title -->
       <div class="text-center">

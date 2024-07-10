@@ -12,7 +12,7 @@ const addIncome = ref();
   <div class="h-screen w-screen bg-gray-200 font-sans">
     <div class="mx-auto aspect-[9/17] h-screen bg-[#9FCEA3]">
       <Navbar />
-      <main class="flex flex-col gap-y-6 px-20">
+      <main class="flex flex-col gap-y-6 px-10">
         <!-- 收入或支出 -->
         <a-radio-group v-model:value="inOrOut">
           <a-radio-button value="income">收入</a-radio-button>
